@@ -1,0 +1,14 @@
+@media screen and (min-width: 992px) {
+    .card-paragraph {
+      color: bisque;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .card-paragraph {
+      color: black;
+    }
+  }
+  .header {
+    text-align: center;
+  }
+  
